@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/caverns-of-fortune/static/css/main.52fe38f9.css",
-    "main.js": "/caverns-of-fortune/static/js/main.98ff80cb.js",
+    "main.js": "/caverns-of-fortune/static/js/main.5684af7d.js",
     "index.html": "/caverns-of-fortune/index.html",
     "main.52fe38f9.css.map": "/caverns-of-fortune/static/css/main.52fe38f9.css.map",
-    "main.98ff80cb.js.map": "/caverns-of-fortune/static/js/main.98ff80cb.js.map"
+    "main.5684af7d.js.map": "/caverns-of-fortune/static/js/main.5684af7d.js.map"
   },
   "entrypoints": [
     "static/css/main.52fe38f9.css",
-    "static/js/main.98ff80cb.js"
+    "static/js/main.5684af7d.js"
   ]
 }
